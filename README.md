@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hola, yo soy: Bayron Correa</h1>
 <h3 align="center">Actualmente busco ampliar mi conocimiento en Front-End</h3>
 
