@@ -4,11 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baco-bit" alt="baco-bit" /></a> </p>
 
 - 🔭 Actualmente estoy en busqueda de trabajo
-- 
 - 👯 Trabajo Colaborativo [Punto de Venta The CheckPoint](https://github.com/Veliz97N/the_checkpoint)
-
 - 👨‍💻 Todos mis proyectos en GitHub: [https://github.com/baco-bit](https://github.com/baco-bit)
-
 - 📫 Contáctame **bayron.correa.z@gmail.com**
 
 ### Blogs posts
