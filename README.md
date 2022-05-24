@@ -7,7 +7,7 @@
 
 - 👯 Trabajo Colaborativo [Punto de Venta The CheckPoint](https://github.com/Veliz97N/the_checkpoint)
 
-- 👨‍💻 Todos mis proyectos en GitHub: [https://github.com/baco-bit](https://github.com/baco-bit)
+- 👨‍💻 Todos mis proyectos en GitHub: [https://github.com/baco-bit](/https://github.com/baco-bit?tab=repositories)
 
 - 📫 Contáctame **bayron.correa.z@gmail.com**
 
